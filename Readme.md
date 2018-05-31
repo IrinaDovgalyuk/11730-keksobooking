@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Ирина Довгалюк](https://up.htmlacademy.ru/javascript/14/user/11730).
-* Наставник: `Неизвестно`.
+* Наставник: [Игорь Яицкий] (https://up.htmlacademy.ru/javascript/14/user/806757).
 
 ---
 
